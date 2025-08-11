@@ -60,7 +60,7 @@ https://youtu.be/bf4PWxbSkYI?si=rvOzZsTLsnni2Cbc
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- [Vivek](https://github.com/vi2k6): a lot of help
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
