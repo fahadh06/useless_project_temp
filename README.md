@@ -29,7 +29,8 @@ For Hardware:
 - Ardino Uno
 - Servo Motor
 - Bright Light
-- 
+- Camaera
+
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
@@ -48,7 +49,7 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![Final](https://files.catbox.moe/x087uq.jpg)
 *Explain the final build*
 
 ### Project Demo
